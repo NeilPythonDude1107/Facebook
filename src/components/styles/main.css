@@ -1,0 +1,13 @@
+body {
+    background-color: #18191A;
+    overflow-x: hidden;
+    margin:1px !important;
+    font-family: Arial, Helvetica, serif;
+}
+.main__page {
+    display: flex
+}
+.main__posts {
+    display: flex;
+    justify-content: center;
+}
